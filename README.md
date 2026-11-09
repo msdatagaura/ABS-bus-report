@@ -1,3 +1,6 @@
+<img width="1200" height="630" alt="ABS-bus-dashboard" src="https://github.com/user-attachments/assets/a5bb6b9e-59a1-47d4-a460-c09d79a07398" />
+
+
 # ABS bus dashboard about GA4
 Dashboard, ktorý mal za úlohu zistiť údaje o objednávkach, ktoré boli realizované v CRM a GA4.
 
